@@ -1,3 +1,9 @@
+# Integrantes:
+Vinicius Murtinho Vicente Rm551151 
+Lucas Barreto Consentino RM557107
+Gustavo Bispo Cordeiro RM558515
+
+---
 # 🌦️ Projeto de Monitoramento Climático com ESP32
 
 Este projeto utiliza um ESP32 para monitorar eventos climáticos extremos, como **ondas de calor**, **tempestades**, **ventos fortes** e **chuva intensa**, combinando sensores locais e dados da API do [OpenWeatherMap](https://openweathermap.org/). Os dados são exibidos em um display LCD e enviados para um broker MQTT, podendo ser visualizados no **Node-RED** ou outras plataformas IoT.
